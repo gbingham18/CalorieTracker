@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "food": 	"Sour cream dip",
+        "calories": 133.65000
+    },
+    {
+        "id": 2,
+        "food": 	"Ice cream, regular",
+        "calories": 267.33000
+    },
+    {
+        "id": 3,
+        "food": 	"Ice cream, rich",
+        "calories": 368.52000
+    },
+    {
+        "id": 4,
+        "food": 	"Soft serve ice cream",
+        "calories": 347.73000
+    },
+    {
+        "id": 5,
+        "food": 	"Ice cream bar, chocolate covered",
+        "calories": 169.12000
+    },
+    {
+        "id": 6,
+        "food": 	"Ice cream bar, chocolate covered",
+        "calories": 277.84000
+    },
+    {
+        "id": 7,
+        "food": 	"Ice cream sandwich",
+        "calories": 143.37000
+    },
+    {
+        "id": 8,
+        "food": 	"Light ice cream",
+        "calories": 216.15000
+    },
+    {
+        "id": 9,
+        "food": 	"Light soft serve ice cream",
+        "calories": 220.50000
+    },
+    {
+        "id": 10,
+        "food": 	"Light ice cream sandwich",
+        "calories": 129.60000
+    },
+    {
+        "id": 11,
+        "food": 	"Milk chocolate fruit & nut bar",
+        "calories": 150.48000
+    },
+    {
+        "id": 12,
+        "food": 	"Milk chocolate fruit & nut bar",
+        "calories": 193.80000
+    },
+    {
+        "id": 13,
+        "food": 	"Milk chocolate fruit & nut bar",
+        "calories": 50.16000
+    },
+    {
+        "id": 14,
+        "food": 	"Milk chocolate bar with almonds",
+        "calories": 215.66000
+    },
+    {
+        "id": 15,
+        "food": 	"Milk chocolate bar with almonds",
+        "calories": 326.12000
+    },
+    {
+        "id": 16,
+        "food": 	"Milk chocolate bar with almonds",
+        "calories": 73.64000
+    }
+]
