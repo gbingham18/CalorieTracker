@@ -2,6 +2,7 @@ This app provides the number of calories based on the result of a user search fo
 
 User Stories
 Create a JSON file containing the food items to be searched. This will be loaded when the app is started.
+
 User can see an panel containing a food description input text box, a 'Search' button, and a 'Clear' button.
 User can enter search terms into the food description input text box.
 User can click on the 'Search' button to search for the matching food.
